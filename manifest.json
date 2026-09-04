@@ -1,0 +1,9 @@
+{
+  "name":"SHK 86 HRM",
+  "short_name":"SHK HRM",
+  "start_url":".",
+  "display":"standalone",
+  "background_color":"#f5f7fb",
+  "theme_color":"#071a3d",
+  "lang":"vi"
+}
